@@ -16,13 +16,13 @@
     return math.floor(값)
 ***
 
-번역(python) 아래 "를 밑으로하는" 위 "로그 값"
+번역(python) 아래 "를 밑으로 하는" 위 "로그 값"
 ***
     import math
     return math.log(위, 아래)
 ***
 
-번역(python) 값 "에" 몇 "승"
+번역(python) 값 "의" 몇 "승"
 ***
     import math
     return math.pow(값, 몇)
